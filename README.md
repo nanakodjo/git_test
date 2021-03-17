@@ -1,2 +1,2 @@
 # git_test
-##### project odin test 
+this is my odin project git project
